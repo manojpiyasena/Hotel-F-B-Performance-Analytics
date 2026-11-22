@@ -1,4 +1,5 @@
 # How can hotel Food & Beverage management maximise restaurant revenue while controlling food and labour costs across different meal periods and guest segments?
+
 Restaurant revenue analysis    
 Food cost and labour cost    
 Operational performance and recommendations
