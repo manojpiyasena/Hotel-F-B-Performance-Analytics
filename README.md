@@ -3,8 +3,6 @@ Restaurant revenue analysis
 Food cost and labour cost    
 Operational performance and recommendations
 
-Hotel Food & Beverage Performance Analytics
-
 Project Overview
 
 This project focuses on analysing hotel restaurant performance using Python, Pandas and data visualisation techniques. The objective is to understand how restaurant revenue, guest behaviour, occupancy levels, food costs and labour costs influence overall Food & Beverage operational performance.
